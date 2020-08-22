@@ -331,14 +331,14 @@ img {
 
 .input-name {
   margin-bottom: 17px;
-  background-image: url(img/user-icon.svg);
+  background-image: url(../img/user-icon.svg);
   background-repeat: no-repeat;
   background-position: left 20px center;
 }
 
 .input-phone {
   margin-bottom: 26px;
-  background-image: url(img/phone-icon.svg);
+  background-image: url(../img/phone-icon.svg);
   background-repeat: no-repeat;
   background-position: left 20px center;
 }

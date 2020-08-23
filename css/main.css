@@ -443,6 +443,23 @@ img {
 }
 
 @media (max-width: 800px) {
+  .hero {
+    padding-bottom: 90px;
+  }
+  .section {
+    padding: 40px 0 70px;
+  }
+  .hero-header {
+    padding-top: 20px;
+    margin-bottom: 40px;
+  }
+  .button {
+    padding: 14px 32px;
+  }
+  .hero-avatar {
+    width: 250px;
+    height: 250px;
+  }
   .contacts-phone,
   .contacts-email {
     flex-basis: 45%;
@@ -456,6 +473,16 @@ img {
   }
   .slider-text {
     flex-basis: 40%;
+  }
+}
+
+@media (max-width: 738px) {
+  .contacts-phone,
+  .contacts-email {
+    margin-bottom: 30px;
+  }
+  .privacy-policy {
+    margin-top: 50px;
   }
 }
 

@@ -14,7 +14,7 @@ img {
 }
 
 .logo {
-  max-width: 200px;
+  max-width: 170px;
 }
 
 .button {
@@ -447,6 +447,9 @@ img {
 }
 
 @media (max-width: 800px) {
+  .logo {
+    max-width: 150px;
+  }
   .hero {
     padding-bottom: 90px;
   }
@@ -529,6 +532,9 @@ img {
 }
 
 @media (max-width: 564px) {
+  .logo {
+    max-width: 100px;
+  }
   .button {
     font-size: 10px;
     line-height: 28px;
